@@ -1,0 +1,1 @@
+En esta actividad aprendí a trabajar con solicitudes POST utilizando Express y JSON. Comprendí cómo recibir datos enviados por un cliente mediante req.body y cómo responder con información en formato JSON. Esta práctica fortaleció mis conocimientos sobre el desarrollo de APIs con Node.js.

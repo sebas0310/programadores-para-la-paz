@@ -1,0 +1,9 @@
+Prueba API
+
+Comando ejecutado:
+curl -X POST http://localhost:3000/registro
+
+Respuesta:
+Estado: Datos recibidos
+Nombre: Maria
+Mensaje: Hola comunidad
