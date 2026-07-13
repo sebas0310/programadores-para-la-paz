@@ -1,0 +1,1 @@
+En esta actividad aprendí a crear una API básica con Express, utilizar rutas GET y POST, probar el funcionamiento del servidor con curl y comprender cómo se envían y reciben datos entre un cliente y un servidor. Esta práctica fortaleció mis conocimientos sobre el desarrollo de aplicaciones con Node.js.

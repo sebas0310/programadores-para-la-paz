@@ -1,0 +1,10 @@
+Pruebas realizadas:
+
+1. curl http://localhost:3000
+Respuesta: Servidor activo
+
+2. curl http://localhost:3000/saludo
+Respuesta: Hola comunidad
+
+3. curl http://localhost:3000/mensaje/Sebastian
+Respuesta: Hola Sebastian
