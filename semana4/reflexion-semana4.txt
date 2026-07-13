@@ -1,0 +1,1 @@
+En esta actividad aprendí a utilizar Termux para trabajar con Node.js, instalar dependencias con npm, crear un servidor con Express y gestionar archivos dentro de un repositorio de Git. Esta práctica me ayudó a comprender mejor el entorno de desarrollo y el uso de la terminal.
