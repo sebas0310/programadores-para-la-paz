@@ -1,0 +1,2 @@
+En esta actividad aprendí cómo funciona un servidor con Node.js y Express, la importancia de los puertos, las rutas y los registros (logs). También comprendí que monitorear un servidor ayuda a mantener su estabilidad y funcionamiento.
+

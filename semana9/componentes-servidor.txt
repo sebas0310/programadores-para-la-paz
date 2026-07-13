@@ -1,0 +1,7 @@
+Componentes del servidor
+
+- Node.js: Entorno para ejecutar JavaScript.
+- Express: Framework para crear el servidor y las rutas.
+- Puerto 3000: Puerto donde escucha el servidor.
+- Rutas: / y /estado.
+- Logs: Permiten registrar la actividad y detectar errores.

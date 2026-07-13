@@ -1,0 +1,8 @@
+Ejecución del servidor
+
+Servidor iniciado correctamente con Node.js y Express.
+
+Puerto utilizado: 3000
+
+Estado:
+Servidor activo y funcionando.
