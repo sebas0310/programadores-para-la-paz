@@ -1,0 +1,9 @@
+Prueba de reportes
+
+Tipo: Infraestructura
+
+Descripción:
+Daño en alumbrado público
+
+Resultado:
+Reporte registrado correctamente.

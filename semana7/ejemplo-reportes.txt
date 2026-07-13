@@ -1,0 +1,7 @@
+Ejemplo de reporte
+
+Tipo: Ambiente
+
+Descripción:
+Acumulación de residuos en una zona comunitaria.
+

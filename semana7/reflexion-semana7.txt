@@ -1,0 +1,1 @@
+En esta actividad aprendí a trabajar con un arreglo para almacenar reportes temporalmente y a crear rutas GET y POST con Express. También reforcé el uso de JSON y las pruebas de una API utilizando curl desde Termux.
