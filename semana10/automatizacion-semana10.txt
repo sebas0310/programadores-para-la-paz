@@ -1,0 +1,12 @@
+Automatización - Semana 10
+
+Herramienta: n8n
+
+Objetivo:
+Automatizar el envío de notificaciones cuando se registre un nuevo reporte comunitario.
+
+Proceso:
+1. Se registra un reporte.
+2. n8n detecta el nuevo registro.
+3. Se envía una notificación por Telegram al grupo comunitario.
+4. Los responsables reciben el aviso para dar seguimiento.

@@ -1,0 +1,13 @@
+Backlog - Solución comunitaria
+
+Prioridad 1:
+Como ciudadano, quiero reportar problemas en mi comunidad para que las autoridades puedan atenderlos rápidamente.
+
+Prioridad 2:
+Como líder comunitario, quiero recibir notificaciones de nuevos reportes para hacer seguimiento.
+
+Prioridad 3:
+Como ciudadano, quiero consultar el estado de mis reportes para conocer su avance.
+
+Prioridad 4:
+Como administrador, quiero organizar los reportes por prioridad para atender primero los más importantes.

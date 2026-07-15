@@ -1,0 +1,3 @@
+Reflexión - Semana 10
+
+En esta actividad aprendí qué es un backlog, cómo organizar historias de usuario según su prioridad y la importancia de planificar el desarrollo de un proyecto por iteraciones. También conocí cómo herramientas como n8n y Telegram pueden ayudar a automatizar procesos y mejorar la comunicación en proyectos comunitarios.

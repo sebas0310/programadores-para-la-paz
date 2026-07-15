@@ -1,0 +1,13 @@
+Iteración - Semana 10
+
+Objetivo de la iteración:
+Implementar el registro de reportes ciudadanos.
+
+Actividades:
+- Crear el formulario para registrar reportes.
+- Validar la información ingresada.
+- Guardar los datos del reporte.
+- Mostrar una confirmación al usuario.
+
+Resultado esperado:
+Que los ciudadanos puedan registrar reportes correctamente.
