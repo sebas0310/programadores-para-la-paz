@@ -1,0 +1,18 @@
+Modelo de datos
+
+Entidad: Usuario
+- id
+- nombre
+- correo
+- contraseña
+
+Entidad: Reporte
+- id
+- tipo
+- descripcion
+- fecha
+- estado
+- id_usuario
+
+Relación:
+Un usuario puede registrar uno o varios reportes.

@@ -1,0 +1,3 @@
+Autenticación de usuarios
+
+La autenticación permite verificar la identidad de los usuarios mediante un correo electrónico y una contraseña. Esto ayuda a proteger la información y a controlar el acceso a las funciones de la aplicación.

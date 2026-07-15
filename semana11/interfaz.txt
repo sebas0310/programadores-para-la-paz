@@ -1,0 +1,7 @@
+Interfaz de usuario
+
+La aplicación contará con:
+- Pantalla de inicio de sesión.
+- Formulario para registrar reportes.
+- Lista de reportes registrados.
+- Panel para consultar el estado de los reportes.
