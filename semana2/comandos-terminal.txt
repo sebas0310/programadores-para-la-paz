@@ -1,0 +1,11 @@
+Comandos básicos de la terminal
+
+pwd: Muestra la ruta o ubicación actual.
+
+ls: Lista los archivos y carpetas del directorio actual.
+
+mkdir: Crea una nueva carpeta.
+
+cd: Permite cambiar de directorio.
+
+touch: Crea un archivo vacío.
