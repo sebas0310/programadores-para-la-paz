@@ -1,0 +1,11 @@
+Comandos básicos de Git
+
+git init: Inicializa un repositorio Git.
+
+git status: Muestra el estado actual del repositorio.
+
+git add .: Agrega todos los cambios al área de preparación.
+
+git commit -m "mensaje": Guarda un registro de los cambios realizados.
+
+git push: Envía los cambios al repositorio remoto en GitHub.

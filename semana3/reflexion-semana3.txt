@@ -1,0 +1,3 @@
+Reflexión - Semana 3
+
+En esta actividad aprendí la importancia de Git como sistema de control de versiones. Comprendí cómo registrar cambios en un proyecto utilizando comandos como git add, git commit y git push, y cómo un repositorio permite organizar y respaldar el trabajo realizado.
