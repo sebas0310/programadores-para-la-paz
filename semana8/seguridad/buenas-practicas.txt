@@ -1,0 +1,7 @@
+Buenas prácticas de seguridad
+
+- Utilizar contraseñas fuertes y únicas.
+- No compartir credenciales con otras personas.
+- Mantener el sistema operativo actualizado.
+- Instalar software únicamente desde fuentes confiables.
+- Realizar copias de seguridad periódicamente.

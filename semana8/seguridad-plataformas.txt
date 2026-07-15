@@ -1,0 +1,7 @@
+Seguridad en plataformas
+
+- Mantener el sistema operativo actualizado.
+- Utilizar contraseñas seguras y únicas.
+- Activar la autenticación en dos pasos cuando sea posible.
+- No descargar archivos de sitios no confiables.
+- Mantener el antivirus y las aplicaciones actualizadas.

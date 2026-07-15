@@ -1,0 +1,7 @@
+Información del sistema
+
+Resultado de uname -a:
+Linux localhost 5.4.210 #1 SMP PREEMPT Thu Jun 18 18:09:00 CST 2026 aarch64 Android
+
+Resultado de whoami:
+u0_a196
