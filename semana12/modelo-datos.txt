@@ -1,0 +1,17 @@
+Modelo de datos
+
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Sirve para almacenar la información de cada causa creada por la comunidad.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Sirve para registrar las personas que apoyan una causa y relacionarlas con la causa correspondiente.

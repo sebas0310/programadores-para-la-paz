@@ -1,0 +1,3 @@
+Reflexión - Semana 12
+
+Durante este curso aprendí que la tecnología puede ayudar a fortalecer la participación ciudadana y la organización comunitaria mediante herramientas digitales. Comprendí la importancia de utilizar sistemas que permitan registrar información de manera organizada y segura. También aprendí conceptos sobre Git, GitHub, Node.js, bases de datos, automatización y diseño de aplicaciones. Entendí que proteger los datos personales es fundamental para generar confianza en los usuarios. Además, conocí cómo herramientas como Telegram y n8n pueden facilitar la comunicación y automatizar procesos. Todo esto me permitió comprender mejor cómo desarrollar soluciones tecnológicas para resolver necesidades reales de una comunidad.
